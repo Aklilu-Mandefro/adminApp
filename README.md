@@ -1,6 +1,6 @@
 # ✍️ adminApp
 
-adminApp is a MERN stack E-commerce application.
+adminApp is a MERN stack E-commerce application (only Admin side).
 
 ## 💻⚛️🏗️🛠️ Tech-stacks used
 

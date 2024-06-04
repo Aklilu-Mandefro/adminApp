@@ -52,15 +52,12 @@ adminApp is a MERN stack E-commerce application (only Admin side).
    ```bash
    npm install
    ```
-2. Rename the `.env.example` file to `.env`
-3. Configure your MongoDB database. after configuring you will find a mongo URI just put that on your `.env` file MONGO_URI variable.
-4. Once you successfully connect with MongoDB and configure **.env**, then run `npm run data:import`, it will run **seed.js** file and will import all demo data on the database. (You
-   will find all demo data in the utils folder, change that data according to your need, also
-   use staff email with real email for use of the forgetting password option) If everything is
+   
+2. Configure your MongoDB database. after configuring you will find a mongo URI just put that on your `.env` file MONGO_URI variable.
+3. Once you successfully connect with MongoDB and configure **.env**, then run `npm run data:import`, it will run **seed.js** file and will import all demo data on the database. If everything is
    okay, then the backend configuration is done. Now you will find all demo data in your
    MongoDB database.
-5. Now run `npm run dev`, it will run your backend on local server on PORT 5055 or your
-   input PORT.
+4. Now run `npm run dev`, it will run your backend on local server on PORT 5055 or your input PORT.
 
 ### Admin Installation
 
@@ -70,9 +67,9 @@ adminApp is a MERN stack E-commerce application (only Admin side).
 npm install
 ```
 
-2. Rename the **.env.example** file to **.env.local**
-3. Create a cloudinary account. Then, get your cloudinary name, API_KEY, and API_SECRET. Once you are done, copy and paste these values to REACT_APP_CLOUD_NAME, REACT_APP_CLOUDINARY_API_KEY, and REACT_APP_CLOUDINARY_API_SECRET lines respectively from the **.env.local** file.
-4. Now run `npm start`, it will run your **adminApp** on local server on http://localhost:4000
+
+2. Create a cloudinary account. Then, get your cloudinary name, API_KEY, and API_SECRET. Once you are done, copy and paste these values to REACT_APP_CLOUD_NAME, REACT_APP_CLOUDINARY_API_KEY, and REACT_APP_CLOUDINARY_API_SECRET lines respectively from the **.env.local** file.
+3. Now run `npm start`, it will run your **adminApp** on local server on http://localhost:4000
 
 ## [Visit the App in Action](https://mern-stack-admin.vercel.app/)
 

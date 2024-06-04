@@ -82,7 +82,7 @@ npm install
 
 ## Issues
 
-If you find any issues while installing or using the app, kindly open an [issue](https://github.com/Aklilu-Mandefro/mern-stack-ecommerce-application/issues) with the tag "enhancement".
+If you find any issues while installing or using the app, kindly open an [issue](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/issues) with the tag "enhancement".
 
 **Note:** Make sure you browse through the existing issues to check if the issue already exists.<br>
 
@@ -91,7 +91,7 @@ If you find any issues while installing or using the app, kindly open an [issue]
 Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this app better, please fork the repo and
-create a pull request. You can also simply open a [discussions](https://github.com/Aklilu-Mandefro/mern-stack-ecommerce-application/discussions/) or an [issue](https://github.com/Aklilu-Mandefro/mern-stack-ecommerce-application/issues) with the tag "enhancement".
+create a pull request. You can also simply open a [discussions](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/discussions/) or an [issue](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/issues) with the tag "enhancement".
 
 ## Image Credits
 

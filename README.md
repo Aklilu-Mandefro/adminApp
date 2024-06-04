@@ -4,16 +4,16 @@ adminApp is a MERN stack E-commerce application (only Admin side).
 
 ## 💻⚛️🏗️🛠️ Tech-stacks used
 
-- React.js
-- Tailwindcss
-- Node & Express.js
-- MongoDB
-- Mongoose: for all schema validation and database connection
-- Day.js: for date format.
-- JsonwebToken: for create jsonwebtoken
-- BcryptJs: for password encryption
-- Dotenv: for use environment variable
-- Nodemon: for run on dev server
+- [x] React.js
+- [x] Tailwindcss
+- [x] Node & Express.js
+- [x] MongoDB
+- [x] Mongoose: for all schema validation and database connection
+- [x] Day.js: for date format.
+- [x] JsonwebToken: for create jsonwebtoken
+- [x] BcryptJs: for password encryption
+- [x] Dotenv: for use environment variable
+- [x] Nodemon: for run on dev server
 
 ## Main Features
 
@@ -88,10 +88,20 @@ If you find any issues while installing or using the app, kindly open an [issue]
 
 ## Contribution
 
+<blockquote>
+  
 Any contributions you make are **greatly appreciated**.
+If you have a suggestion that would make this app better, please:
 
-If you have a suggestion that would make this app better, please fork the repo and
-create a pull request. You can also simply open a [discussions](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/discussions/) or an [issue](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/issues) with the tag "enhancement".
+1. Fork the repo
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+5. Open a Pull Request
+
+You can also simply open a [discussions](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/discussions/) or an [issue](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/issues) with the tag "**enhancement**".
+
+</blockquote>
 
 ## Image Credits
 
@@ -100,4 +110,4 @@ create a pull request. You can also simply open a [discussions](https://github.c
 3. Pngwing – https://www.pngwing.com/
 4. Instacart – https://instacart.ca
 
-### Please give this repo a ⭐ if you found it helpful and share it with your friends.
+### 💙 If you like this project, give it a ⭐ and share it with friends!

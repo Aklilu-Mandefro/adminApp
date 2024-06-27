@@ -71,7 +71,7 @@ npm install
 2. Create a cloudinary account. Then, get your cloudinary name, API_KEY, and API_SECRET. Once you are done, copy and paste these values to REACT_APP_CLOUD_NAME, REACT_APP_CLOUDINARY_API_KEY, and REACT_APP_CLOUDINARY_API_SECRET lines respectively from the **.env.local** file.
 3. Now run `npm start`, it will run your **adminApp** on local server on http://localhost:4000
 
-## [Visit the App in Action](https://mern-stack-admin.vercel.app/)
+## [Visit adminApp](https://adminapp-et.vercel.app/)
 
 <br>
 
@@ -79,7 +79,7 @@ npm install
 
 ## Issues
 
-If you find any issues while installing or using the app, kindly open an [issue](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/issues) with the tag "enhancement".
+If you find any issues while installing or using the app, kindly open an [issue](https://github.com/Aklilu-Mandefro/adminApp/issues) with the tag "enhancement".
 
 **Note:** Make sure you browse through the existing issues to check if the issue already exists.<br>
 
@@ -96,7 +96,7 @@ If you have a suggestion that would make this app better, please:
 4. Push to the Branch 
 5. Open a Pull Request
 
-You can also simply open a [discussions](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/discussions/) or an [issue](https://github.com/Aklilu-Mandefro/ecommerce-app-mern/issues) with the tag "**enhancement**".
+You can also simply open a [discussions](https://github.com/Aklilu-Mandefro/adminApp/discussions/) or an [issue](https://github.com/Aklilu-Mandefro/adminApp/issues) with the tag "**enhancement**".
 
 </blockquote>
 
